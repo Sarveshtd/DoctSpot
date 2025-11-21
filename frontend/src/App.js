@@ -29,7 +29,7 @@ function App() {
           </Routes>
         </div>
         <footer className="bg-light text-center text-lg-start">
-          <div className="text-center p-3">© 2025 Copyright: MediCareBook</div>
+          <div className="text-center p-3">© 2025 Copyright: DocSpot</div>
         </footer>
       </Router>
     </div>

@@ -55,7 +55,7 @@ const AdminUsers = () => {
                               <td>{user.email}</td>
                               <td>{user.phone}</td>
                               <td>{user.type}</td>
-                              <td>{user.isdoctor === true ? 'Yes' : 'No'}</td>
+                              <td>{user.isdoctor === true ? '✔️' : '❌'}</td>
                               
                            </tr>
                         )
